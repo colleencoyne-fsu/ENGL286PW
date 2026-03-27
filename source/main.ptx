@@ -1,28 +1,388 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+  <docinfo/>
+  <article xml:id="doc-1">
+    <title>ENGL 286 Fall 2026 Syllabus</title>
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
-<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- Include common macros etc: -->
-  <xi:include href="./docinfo.ptx" />
-  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
-  <article>
-    <title>Precalculus</title>
+    
 
-    <subtitle>MATH 180-002 Spring 2026</subtitle>
+    
 
-    <!-- Optional: include frontmatter with author info and date -->
-    <xi:include href="./frontmatter.ptx" />
-   
-    <xi:include href="./information.ptx" />
+    
 
-    <xi:include href="./grading.ptx"/>
+    
+    
+    <section xml:id="sec-1">
+      <title>Course Overview</title>
+      
+      
+            <p>Welcome to Professional Writing at Framingham State University! In this course, you&#x27;ll improve your communication skills for college, the workplace, and beyond. We’ll emphasize writing clearly, concisely, and correctly; appropriately using email and other online media for professional messages; and considering effective ways to present your ideas to a variety of audiences. The course includes the writing of a detailed proposal that investigates a real issue affecting the university community.</p>
 
-    <xi:include href="./policies.ptx"/>
 
-    <xi:include href="./FAQ.ptx"/>
+      
 
-    <xi:include href="./dates.ptx"/>
+      
+
+      
+      <subsection xml:id="sec-1-sub-1">
+        <title>Course Description</title>
+              <p>From the catalog: &quot;A career-oriented course introducing students to a wide variety of writing formats used in business, government, and the professions. Assignments include resumes and other employment documents, letters and memos, reports, and presentations. This course emphasizes drafting, critiquing, rewriting, and editing, as well as collaborative writing and presentation skills. Prerequisite: ENWR 110 Composition II or permission of the instructor.&quot;</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-2">
+        <title>Course Goals and Objectives</title>
+              <p>At the conclusion of this course, you will be able to do the following:</p>
+      <p>
+        <ul>
+          <li>understand and identify contexts, audiences, and goals for various professional writing situations.</li>
+          <li>produce work in several genres of professional communications.</li>
+          <li>conduct relevant research and strategically communicate findings.</li>
+          <li>optimize material for effective visuals, including through charts, graphs, and other media.</li>
+          <li>recognize and use language appropriate for workplace environments.</li>
+          <li>qualitatively evaluate and respond critically to others’ work, including that of your peers.</li>
+          <li>develop a portfolio of professional writing suitable for job applications (including writing samples).</li>
+        </ul>
+      </p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-3">
+        <title>Class Environment</title>
+              <p>Writers at all stages always have something to learn from others, and from others’ texts, and we all must always be respectful of one another. One goal of this class is to elevate the level of everyone’s writing, not simply to praise or critique it.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-4">
+        <title>Student Hours (also called Office Hours)</title>
+              <p>I’ve set aside this time specifically for you: to answer your questions, discuss your ideas, and talk about any aspect of class, writing, or your college/career plans. My office hours can be either virtual or in person on Mondays and Wednesdays, 11:30 a.m.–12:20 p.m. You may schedule a time on Starfish (login required) or just drop in. I can also meet with you other times by appointment, either virtually or in person.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-5">
+        <title>Texts &amp; Materials</title>
+              <p>There is no required textbook to purchase for this course. Instead, you’ll find a selection of readings from open educational resources (OERs) and other content on Canvas. You’ll also watch recorded presentations through Canvas, in which I cover both material from our readings and additional important information about professional writing. These recordings are part of the asynchronous aspect of our course.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-6">
+        <title>Technology</title>
+              <p>Canvas is essential for this class, both for submitting assignments and accessing course materials. If you have any problems with Canvas, you may call Canvas Support at (508) 250-0805 or access live chat with Canvas Student Support on the website/in the app. Also, <url href="https://www.framingham.edu/campus-life/student-support-resources/information-technology-services">ITS</url> can assist you with other technology issues. You are responsible for familiarizing yourself with the parts of Canvas we’ll use in this class; please don’t hesitate to ask for help if something is unclear.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-7">
+        <title>Coursework and Grading</title>
+              <p>On Canvas, I’ll provide detailed assignment descriptions for all Formal Assignments. See below for more on the other components of your grade. Here are the components of your final grade:</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-8">
+        <title>Due Dates / Flexible Deadlines</title>
+              <p>Unless otherwise noted, assignments are due by 11:59 p.m. on the day listed in the schedule and on Canvas. I encourage you to adhere to all deadlines to ensure that you stay on track and get the most out of this experience. However, you may need more time to complete an assignment, so you automatically have a one-week grace period. After that, the assignment will close, and you must consult with me to receive an additional extension. It’s your responsibility to be sure you know how to submit each assignment and to confirm that your submission was successful. You should also <url href="#technology">back up</url> your work so technological failure doesn’t undermine your progress.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-9">
+        <title>Formatting &amp; Submitting Work</title>
+              <p>You’ll submit all your assignments through Canvas. For all Formal Assignments and peer reviews, you must attach a file (.doc, .docx, .rtf, or .pdf file only). If you use Google Docs, go to File 🡪 Download as 🡪 to download an appropriate version of your document. Please do not share links to Google Docs, OneDrive, or other online documents unless specifically asked to. If you submit your work in a format I can’t view/read (for example, .pages), I won’t be able to grade it, and you won’t receive credit for the assignment. Your file name should contain your last name and the assignment (for example: “Simpson Correspondence.doc”). If you’re posting to a discussion board, consider creating/saving your post in another program in case you experience connectivity issues.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-10">
+        <title>Discussions</title>
+              <p>All the forums listed in the schedule are graded. For all of these, you’ll have the opportunity to post and/or respond to others’ posts in class. If you’re not in class when we’re working on a particular forum, or if you aren’t able to finish the post during class, you’ll have additional time to complete the work for credit. Please see the schedule for forum topics and their associated deadlines; each forum will have a full prompt, including the point value.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-11">
+        <title>Short Reports</title>
+              <p>Throughout the semester, you’ll have several opportunities to write short reports to share your progress on a project, provide a recommendation, and fulfill other purposes. Please see the schedule for topics and deadlines. Some reports are worth 3 points, and others are worth 4, for a total of 14 points. Full guidelines are available on Canvas.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-12">
+        <title>Peer Review</title>
+              <p>Even though you’ll be working on individual projects during the semester, you won’t be working alone. Professional writing is largely collaborative, and peer review is one way in which people collaborate. You’ll have assigned peer review partners or small groups for each of the three Formal Assignments. If you’re not in class for a peer review session, or if you aren’t able to finish your responses during class, you’ll have additional time to complete the work for credit. Please see the schedule for deadlines and each forum for detailed guidelines. You’ll earn 3 points per Peer Review session for responding to your peers’ work.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-13">
+        <title>Quizzes</title>
+              <p>Three short quizzes will check your knowledge on important topics: correspondence, employment materials, and design/visuals. These quizzes, which you’ll take through Canvas, are open book, open note, and open internet (though you should choose your sources wisely). You may take each quiz as many times as you’d like until the deadline (see the schedule). Not taking a quiz will result in earning zero points. I’ll drop your lowest score, and your final quiz grade will be the average of your top two scores, up to 5 points. Please note that the label “Practice Quiz” on Canvas means that the individual quiz score doesn’t count toward your final grade, but quizzes are still graded and are factored into your final grade as described above.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-14">
+        <title>Participation</title>
+              <p>There is no separate Participation grade in this class. I hope that you’ll fully engage in the discussions and activities that will take place both in person and on Canvas, to the best of your ability—which can include sharing your perspective on the topic at hand, actively listening, responding to peers verbally or in writing, etc. You will likely have a better learning experience if you actively contribute to class discussions, both in person and online. You can complete all graded coursework on Canvas.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-1-sub-15">
+        <title>Extra Credit</title>
+              <p>There are no opportunities for extra credit in this class. If you become concerned about your grade, please contact me so we can discuss the best strategies for helping you succeed within the structures of the class.</p>
+
+      </subsection>
+      
+    </section>
+    
+    
+    <section xml:id="sec-2">
+      <title>Policies</title>
+      
+      
+      
+
+      
+
+      
+
+      
+      <subsection xml:id="sec-2-sub-1">
+        <title>Attendance</title>
+              <p>While I do take attendance, there is no separate attendance grade. You should plan to attend all class meetings, and it’s essential for you to be active on Canvas as well. In the event that you are faced with extreme, extenuating circumstances (e.g., prolonged serious illness, death in the immediate family, jury duty, military service, etc.), you should contact the <url href="https://www.framingham.edu/campus-life/dean-students-office/policies-and-procedures">Dean of Students Office</url>, which will help you document an extended absence.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-2">
+        <title>Communication</title>
+              <p>I welcome your questions and comments via email (<url href="mailto:ccoyne1@framingham.edu">ccoyne1@framingham.edu</url>), which I’ll typically check and respond to between 9:30 a.m. and 5:30 p.m., Monday through Friday (excluding holidays—see the <url href="https://www.framingham.edu/academics/registrar/academic-calendar">Academic Calendar</url>). Please allow up to 24 hours for a response, and feel free to follow up if you don’t receive a response within this time. Check your email regularly for instructor communications and course announcements, which will also appear on Canvas. I’ll provide grades and written comments on assignments through Canvas only, not over email. For in-depth conversations (e.g., class performance, feedback on assignments, etc.), please schedule an appointment or drop in during <url href="#student-hours-(also-called-office-hours">Student Hours</url>).</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-3">
+        <title>Recording Classes</title>
+              <p>This class may use video and audio recordings of faculty and students, both online and in person, to better support learning in a blended format. By enrolling in the course, students are consenting to being recorded in this class and may only withdraw such consent by informing the course instructor in writing. As these recordings may contain intellectual property as well as confidential student information (e.g., student names, likenesses), sharing or transferring recordings of such content by any method currently available or any method that may become available in the future is not allowed, and copies of such recordings should not be provided to others; uploaded, linked, embedded, or otherwise posted via file-sharing, social media, or other sites or services which could enable anyone to view or hear them who is not currently enrolled in the course; or share them in any other way. Access to video and audio recordings in this class is for personal educational use only and is available only to individuals currently enrolled in the class, unless faculty permission is expressly granted. Recording and/or sharing course materials, including video and audio files, without the written consent of the course instructor is a violation of University policies (e.g., academic honesty) and will be reported to the College Dean for further action and/or discipline.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-4">
+        <title>Academic Honesty</title>
+              <p>All the work you turn in for this class (and beyond) must be your own. Scholastic dishonesty includes, but is not limited to (1) plagiarism, defined as claiming as one’s own work the published or unpublished literal or paraphrased work of another; (2) unauthorized collaboration with other individuals in the preparation of course assignments; and (3) submitting without authorization the same assignment for credit in more than one course. Submitting scholastically dishonest work is grounds for failing the assignment/course. See the full University Academic Honesty Policy in the current <url href="https://www.framingham.edu/academics/catalogs">Undergraduate Catalog</url>. If you’re struggling with an assignment, please meet with me, and take advantage of the services that CASA offers (see below).</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-5">
+        <title>Use of Generative AI</title>
+              <p>Generative artificial intelligence (GAI) tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. This policy governs all such tools, including those released during our semester together. When noted in the assignment description, you may use these tools to help you with assignments in the specific ways indicated.</p>
+      <p>Remember that AI tools are typically trained on limited datasets that may be out of date and include copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Also, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality and integrity of the work you submit in any college course. Finally, using generative AI erases <em>you</em> as the writer and silences <em>your</em> voice—and your voice is important!</p>
+      <p>If you use generative AI tools to complete assignments in this course in ways that I have not explicitly authorized, you will be in violation of Framingham State&#x27;s Academic Honesty policy. Please act with integrity, for the sake of both your personal character and your academic record.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-6">
+        <title>Center for Academic Success and Achievement (CASA)</title>
+              <p>CASA provides free tutoring services to all students; <url href="https://framingham4.sharepoint.com/sites/FSU-Center-CASA/SitePages/Academic%20Support.aspx?csf=1&amp;web=1&amp;share=EfnSAVmdqktAv0TigAAC4-0BprgD-tyRdjaJeAmI6fbk_A&amp;e=1QQhvG">writing tutoring</url> is available by appointment and can benefit writers at every level. Virtual tutoring (ThinkingStorm Online Tutoring) is also available via Canvas. Please take advantage of these helpful resources!</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-7">
+        <title>Disability/Access Services</title>
+              <p>The University is committed to making reasonable modifications and accommodations to ensure that its programs and activities do not discriminate, or have the effect of discriminating, on the basis of disability. The <url href="https://framingham4.sharepoint.com/sites/FSU-Center-CASA/SitePages/Disability%20Access%20Services.aspx?csf=1&amp;web=1&amp;share=ESaN0mhHvKZEloSVgYHD81MBVgULnjpuCJ8v9P3nyFLVjw&amp;e=DAghqb">Disability/Access Services Office</url> serves students with learning and psychiatric disabilities, as well as students with visual, mobility, and hearing impairments. For further information, please contact Dr. LaDonna Bridges, Dean of Student Success and Persistence, at 508-626-4906 or <url href="mailto:lbridges@framingham.edu">lbridges@framingham.edu</url>.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-8">
+        <title>Antiracism at FSU</title>
+              <p>At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance. We recognize the damaging effects of systemic racism—including policies, structures, and historic practices—on the experience and success of communities of color. Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.</p>
+      <p>Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share. As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect. I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences, and supports the realization of everyone’s potential.</p>
+      <p>The faculty at Framingham State University are against prejudice, discrimination, and bias of any kind. If you experience or witness an act of bias at Framingham State University, whether committed by a fellow student, staff member, or faculty member, please note that you can report the incident online by completing a bias incident response form. You may file a report anonymously or choose to include your name. The <url href="https://framingham4.sharepoint.com/sites/FSU-Div-DICE/SitePages/Reporting-Bias.aspx">Bias Education Response Team (BERT)</url> reviews and handles these reports.</p>
+      <p>The <url href="https://www.framingham.edu/academics/undergraduate/english">English Department</url> supports and advocates for all Framingham State University students, regardless of identity and/or background. Framingham State University values diversity, inclusion, and creating a respectful and supportive learning environment for all members of our community.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-9">
+        <title>FSU Notice of Non-Discrimination and Diversity</title>
+              <p>Framingham State University is committed to a policy of non-discrimination, equal opportunity, diversity, and affirmative action. The University is dedicated to providing educational, working, and living environments that value the diverse backgrounds of all people. Furthermore, the Massachusetts Civil Rights Act (“MCRA,” M.G.L. c. 12, §§ 11H, 11I, 11J) protects the rights of all residents of and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights. The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-10">
+        <title>Basic Needs &amp; Student Resources</title>
+              <p>If you’re unable to be physically, mentally, or psychologically available for class because some of your basic needs are not being met, FSU has resources that may help. If you’re having difficulty affording groceries or accessing sufficient food to eat, or if you lack a safe and stable place to live and believe this may affect your performance in the course, I urge you to use the resources shared by the <url href="https://framingham4.sharepoint.com/sites/FSU-DeanStudents">Dean of Students Office</url> (on SharePoint, login required). Please talk to me if you don’t know where to start.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-11">
+        <title>Other University-Wide Policies</title>
+              <p>This course adheres to all University policies not explicitly stated in the syllabus; please familiarize yourself with the information on the <url href="https://www.framingham.edu/campus-life/dean-students-office/policies-and-procedures">Student Affairs/Policies &amp; Procedures site</url> and the current <url href="https://www.framingham.edu/academics/catalogs">Undergraduate Catalog</url>.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-12">
+        <title>Use of Student Work</title>
+              <p>Seeing examples of other students’ work can be immensely helpful as you consider the choices you might make in your own work. Occasionally, I’ll share past student work that has successful and unsuccessful components, which we’ll look at together to critically analyze and evaluate. All of this work will be anonymized. Early in the semester, I’ll ask you to fill out an authorization form to allow me to use your work in these and other ways. Please contact me if you have any questions about this.</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-2-sub-13">
+        <title>Syllabus as Contract</title>
+              <p>Please thoroughly familiarize yourself with the syllabus and schedule, ask questions about anything that’s unclear, and refer to them regularly throughout the semester. By enrolling in this class, you agree to abide by the policies laid out in this document.</p>
+
+      </subsection>
+      
+    </section>
+    
+    
+    <section xml:id="sec-3">
+      <title>Course Schedule</title>
+      
+      
+      
+
+      
+
+      
+
+      
+      <subsection xml:id="sec-3-sub-1">
+        <title>Week 1: Course Overview &amp; Introductions</title>
+              <p><em>W 9/3		Check:</em> access to Canvas</p>
+      <p><em><em>Fr 9/5</em></em>		<em>Watch:</em> “Introduction to Professional Writing”</p>
+      <p><em><em>Su 9/7</em></em>		<em>Post:</em> responses to at least 2 Introduction posts (Discussions)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-2">
+        <title>Week 2: E-Communications in the Workplace</title>
+              <p><em>M 9/8	Read:</em> <url href="https://framingham.teamdynamix.com/TDClient/1792/ServiceHub/KB/ArticleDet?ID=167403">“Smart Email Habits for College Success”</url></p>
+      <p><em>Watch:</em> “Email &amp; Social Media in the Workplace”</p>
+      <p><em><em>Fr 9/12</em></em>		<em>Submit:</em> Professional Email \#1 (as an email, description in Assignments)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-3">
+        <title>Week 3: Letter Basics &amp; “You” Attitude</title>
+              <p><em>M 9/15	Read:</em> “Reader Centered Writing” and Sample Letters</p>
+      <p><em>Watch:</em> “Letter Basics”; “Organization, ‘You’ Attitude, &amp; Delivering Requests”</p>
+      <p><em><em>F 9/19</em></em>		<em>Post:</em> “You” Attitude Revision post (Discussions)</p>
+      <p><em><em>Su 9/21</em></em>	<em>Post:</em> “You” Attitude Revision nomination (Discussions)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-4">
+        <title>Week 4: Delivering Bad &amp; Good News</title>
+              <p><em>M 9/22 	Read:</em> “Delivering Bad News,” “Complaints &amp; Claims”</p>
+      <p><em>Watch:</em> “Delivering Bad News” and “Delivering Good News &amp; Sales Pitches”</p>
+      <p><em><em>F 9/26</em></em>		<em>Post:</em> Complaint &amp; Response post (Discussions)</p>
+      <p><em><em>Su 9/28</em></em>	<em>Post:</em> Complaint &amp; Response reply to peer (Discussion)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-5">
+        <title>Week 5: Memos &amp; Writing for an International Audience</title>
+              <p><em>M 9/29 	Read:</em> “Memorandums,” “Global English &amp; Brevity”</p>
+      <p><em>Watch:</em> “Memos” and “Writing for an International Audience (but really for everyone)”</p>
+      <p><em><em>Th 10/2</em></em>	<em>Post:</em> Correspondence Collection for Peer Review (Discussions)</p>
+      <p><em><em>Sa 10/4</em></em>	<em>Post:</em> Peer Review responses (Discussions)</p>
+      <p><em><em>Su 10/5</em></em>	<em>Complete:</em> Correspondence Quiz (Quizzes)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-6">
+        <title>Week 6: Your Professional Image</title>
+              <p><em>M 10/6	Read:</em> DeLeon, “The White Space”; from “Employment Materials” in <em>Technical Writing</em></p>
+      <p><em>Watch:</em> “Your Professional Image” and “CAR Storytelling”</p>
+      <p><em>Submit (by the start of class):</em> Correspondence Collection (Assignments)</p>
+      <p><em><em>Fr 10/10</em></em>	<em>Post:</em> Sharing Strengths &amp; Weaknesses post (Discussions)</p>
+      <p><em><em>Su 10/12</em></em>	<em>Post:</em> Sharing Strengths &amp; Weaknesses nomination (Discussions)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-7">
+        <title>Week 7: “White Space” Presentations</title>
+              <p><em>M 10/13	No Class (Indigenous Peoples Day)</em></p>
+      <p><em><em>W 10/15</em></em>	<em>Submit:</em> “White Space” Presentation (VoiceThread)</p>
+      <p><em><em>Su 10/19</em></em>	<em>Post:</em> “White Space” responses (VoiceThread)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-8">
+        <title>Week 8: Résumés &amp; Letters of Application</title>
+              <p><em>M 10/20	Read:</em> FSU Career Development’s Resume &amp; Cover Letter Guides</p>
+      <p><em>Guest Speaker:</em> Emily Abel, Career Counselor, FSU Career Development</p>
+      <p><em><em>Su 10/26</em></em>	<em>Complete:</em> Employment Materials Quiz (Quizzes)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-9">
+        <title>Week 9: How to Tailor Your Materials</title>
+              <p><em>M 10/27	Read:</em> from “Employment Materials” in <em>Technical Writing</em></p>
+      <p><em>Watch:</em> “How to Read a Job Ad”</p>
+      <p><em><em>W 10/29</em></em>	<em>Post:</em> Employment Materials for Peer Review (Discussions)</p>
+      <p><em><em>F 10/31</em></em>	<em>Post:</em> Peer Review responses (Discussions)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-10">
+        <title>Week 10: Short Reports</title>
+              <p><em>M 11/3	Read:</em> “Writing Reports”</p>
+      <p><em>Submit:</em> Employment Materials (Assignments)</p>
+      <p><em><em>Su 11/9</em></em>	<em>Submit:</em> Short Report: Resource Recommendation (Assignments)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-11">
+        <title>Week 11: University Community Project (UCP) Overview</title>
+              <p><em>M 11/10	Read:</em> “Writing Winning Proposals”; “Past &amp; Possible Topics”</p>
+      <p><em>Watch:</em> “Writing Proposals”</p>
+      <p><em><em>Su 11/16</em></em>	<em>Submit:</em> UCP Project Proposal (Assignments)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-12">
+        <title>Week 12: Conducting Research &amp; Reaching Your Audience</title>
+              <p><em>M 11/17	Read:</em> “Information: Research &amp; Professional Writing,” “Progress Reports”</p>
+      <p><em>Watch:</em> “Asking Questions &amp; Identifying Resources” and “Surveys &amp; Interviews: Some Considerations”</p>
+      <p><em><em>W 11/19</em></em>	<em>Submit (optional):</em> draft interview/survey questions (via email)</p>
+      <p><em><em>Su 11/23</em></em>	<em>Submit:</em> Professional Email \#2 (as an email, description in Assignments)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-13">
+        <title>Week 13: Designing Effective Documents &amp; Incorporating Visuals</title>
+              <p><em>M 11/24	Read:</em> excerpt from “Designing Successful Documents, Visuals, and Websites”</p>
+      <p><em>Watch:</em> “Designing Effective Documents” and “Incorporating Visuals”</p>
+      <p><em>Participate:</em> “Ineffective Document Design” and “Ineffective Visuals” (Discussions)</p>
+      <p><em><em>Su 11/30</em></em>	<em>Submit:</em> Design &amp; Visuals Quiz (Quizzes)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-14">
+        <title>Week 14: Presentations; Revision &amp; Editing</title>
+              <p><em>M 12/1	Read:</em> “Slides and Powerpoint Presentations,” “Making Successful Presentations”; &quot;Revision in Business Writing,&quot; and Revising and Editing</p>
+      <p><em><em>F 12/5</em></em>		<em>Submit:</em> Short Report: UCP Progress (Assignments)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-15">
+        <title>Week 15: Assessment &amp; Reflection</title>
+              <p><em>M 12/8	Read:</em> short readings about assessment</p>
+      <p><em>Post:</em> UCP Formal Proposal draft for Peer Review (Discussions)</p>
+      <p><em><em>W 12/10</em></em>	<em>Post:</em> Peer Review responses (Discussions)</p>
+      <p><em><em>F 12/12</em></em>	<em>Post:</em> UCP Presentation (VoiceThread)</p>
+      <p><em><em>Su 12/14</em></em>	<em>Submit:</em> Short Report: Summary (Assignments)</p>
+      <p><em>Post:</em> responses to presentations (VoiceThread)</p>
+
+      </subsection>
+      
+      <subsection xml:id="sec-3-sub-16">
+        <title>Week 16: Final Projects</title>
+              <p><em>Note: there is no final exam for this class. Please disregard the time on MyFramingham.</em></p>
+      <p><em><em>F 12/19</em></em>	<em>Submit:</em> UCP Formal Proposal revision (Assignments)</p>
+      <p><em>Submit:</em> Professional Email \#3 (as an email, description in Assignments)</p>
+      <p><em>Submit:</em> Short Report: Performance (Assignments)</p>
+
+      </subsection>
+      
+    </section>
+    
+
+    
+    
+    
 
   </article>
+</pretext>
 
-  </pretext>
